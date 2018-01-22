@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 asdfasfdas
 this is for stash command
 we will going to see how stash will work
 This is first idea that i am going to implement 
 after this my issue will fixed.
-=======
->>>>>>> parent of 0d8cf2c... intial stash
